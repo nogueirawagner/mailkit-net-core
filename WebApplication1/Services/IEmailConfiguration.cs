@@ -1,17 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace WebApplication1.Services
+﻿namespace WebApplication1.Services
 {
   public interface IEmailConfiguration
   {
+    // Configurações SMTP
     string SmtpServer { get; set; }
     int SmtpPort { get; set; }
     string SmtpUsername { get; set; }
     string SmtpPassword { get; set; }
 
+    // Configurações POP
     string PopServer { get; set; }
     int PopPort { get; set; }
     string PopUsername { get; set; }
