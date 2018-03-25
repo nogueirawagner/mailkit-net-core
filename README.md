@@ -15,6 +15,7 @@ Criar projeto WebApplication .NET Core com autenticação do Identity User.
 <img src="https://raw.githubusercontent.com/nogueirawagner/mailkit-net-core/master/WebApplication1/img/ConfigureServices.png" style="max-width:100%;">
 
 <strong>Implementar o envio de email na class de services utilizada pelo Identity EmailSender</strong><br>
+Primeiro instalar o pacote utilizando o nuget: <strong>Install-Package MailKit</strong><br>
 <img src="https://raw.githubusercontent.com/nogueirawagner/mailkit-net-core/master/WebApplication1/img/EmailSender.png" style="max-width:100%;">
 
 Pronto! 
