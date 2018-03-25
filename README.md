@@ -1,5 +1,5 @@
 # mailkit-net-core
-Enviar email utilizando Mailkit.
+Enviar email utilizando Mailkit. <br>
 Criar projeto WebApplication .NET Core com autenticação do Identity User.
 
 <strong>Criar interface de configuração</strong><br>
